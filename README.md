@@ -39,7 +39,7 @@
 ![WhatsApp Image 2021-06-02 at 12 12 18 PM (4)](https://user-images.githubusercontent.com/79192605/120437399-a7f40100-c39d-11eb-93a8-44494dca9d1a.jpeg)
 
 
- 6. Sixth Case : Here, you can see, my post is visible and showimg "just now", as a time period for updation. 
+ 6. Sixth Case : Here, you can see, my post is visible and showing "just now", as a time period for updation. 
  
 ![WhatsApp Image 2021-06-02 at 12 12 18 PM (5)](https://user-images.githubusercontent.com/79192605/120437456-b4785980-c39d-11eb-847f-fdb07eeeaa51.jpeg)
 
