@@ -1,4 +1,4 @@
-# Social-App-
+# Social-App
 
 • This social networking App enables you to post short text messages, containing a finite number of characters, to convey your message to the world.
 
