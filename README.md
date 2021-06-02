@@ -3,7 +3,6 @@
 • This social networking App enables you to post short text messages, containing a finite number of characters, to convey your message to the world.
 
 • Enabling Post's to be delivered 𝐑𝐞𝐚𝐥-𝐭𝐢𝐦𝐞.
-
 • Comes with 𝐅𝐢𝐫𝐞𝐛𝐚𝐬𝐞 𝐀𝐮𝐭𝐡𝐨𝐫𝐢𝐳𝐚𝐭𝐢𝐨𝐧 & 𝐋𝐨𝐠𝐢𝐧.
 
 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐔𝐬𝐞𝐝 :-
