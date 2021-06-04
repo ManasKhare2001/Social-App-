@@ -16,7 +16,7 @@
 
  1. First Case : Here, User must need to SignUp with their Email, in order to go inside the app. 
 
-![WhatsApp Image 2021-06-02 at 12 12 18 PM](https://user-images.githubusercontent.com/79192605/120437347-99a5e500-c39d-11eb-8ec1-341b524fc549.jpeg)
+![WhatsApp Image 2021-06-04 at 1 11 49 PM](https://user-images.githubusercontent.com/79192605/120765495-e670f380-c536-11eb-978b-f76b6f2fa629.jpg)
 
 
  2. Second Case : Here, User can see all of their Email id's, having option to signUp with different email id's. 
